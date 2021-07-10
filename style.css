@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: 'kingthings-petrock';
-    src: url('./fonts/Kingthings-Petrock.ttf') format('truetype');
+    src: url('../fonts/Kingthings-Petrock.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
  
@@ -9,7 +9,7 @@
 
 @font-face {
     font-family: 'kingthings-petrock-light';
-    src: url('./fonts/Kingthings-Petrock-light.ttf') format('truetype');
+    src: url('../fonts/Kingthings-Petrock-light.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
  
