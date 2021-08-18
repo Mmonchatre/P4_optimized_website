@@ -18,6 +18,7 @@ a:hover {
     cursor: pointer;
 }
 
+
 .kingthings-petrock{
     font-family:kingthings-petrock-light;
     color: black;
@@ -1066,15 +1067,22 @@ h4 {
     }
 }
 
+/*
 @media (max-width: 400px) {
     .bloc {
         padding-left: 0;
         padding-right: 0;
     }
 }
+*/
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+
+.width100 {
+        width:100%;
+        justify-items: center;
     }
 }
